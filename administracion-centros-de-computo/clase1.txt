@@ -1,0 +1,5 @@
+recursos en una empresa de tecnologia
+  - hardware
+  - software
+  - humanos
+  - informacion
