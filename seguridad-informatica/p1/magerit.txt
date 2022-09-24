@@ -1,0 +1,118 @@
+  Magerit
+    - elementos
+      - activos
+      - amenazas
+      - vulnerabilidades
+      - impactos
+      - riesgos
+      - salvaguardas
+    - eventos
+      - vista estetica relacional
+      - vista dinamica de tipo organizativa
+      - vista dinamica de tipo fisica
+    - procesos
+      - planificacion del proyecto de riesgos
+      - analisis de riesgos
+      - gestion de riesgos
+      - seleccion de salvaguardas
+
+  Analisis de riesgos
+    Determinar riesgos a traves de los siguientes pasos:
+
+    - Identificar activos importantes para la empresa,
+      su interacion y valor en grado en que su deteriodo afectaria a la empresa
+
+    - Determinar las amenazas a las que estan expuestos los activos
+
+    - Establecer medidas preventivas y su efectividad respecto al riesgo
+
+    - Medir el impacto, el cual es daño que una amenaza causa al activo
+
+    - Medir el riesgo, el impacto ponderado con la probabilidad de materializacion de la amenaza
+
+  Activos
+   - Datos
+   - Servicos 
+   - Aplicaciones informaticas (software)
+   - Equipos informaticos (software)
+   - Redes de comunicacion
+   - Instalaciones
+   - Personas
+   encuanto a los activos tener en cuenta:
+    - la dependencia de los activos
+    - el valor cuantitativo y cualitativo
+    - dimenciones
+    - el valor de interrupcion
+
+  Amenazas
+    determinar amenazas que puedan afectar los ativos
+    las amenazas puden ser de origen:
+      - natural (terremotos, avalanchas)
+      - industriales (fallos electricos)
+      - defectos de aplicaciones (vulnerabilidades en las aplicaciones)
+      - personas de forma accidental(errores)
+      - personas de forma deliverada(ataques internos,robos para beneficio propio)
+
+    Para cada amenaza se debe tener presente el valor de cada amenaza, 
+    la degradacion y la probabilidad de materializacion
+
+  Impacto
+  Determinacion del impacto potencial
+
+    - impacto acumulado 
+      (valor acumulado y las amenazas alas que esta expuesto)
+    - impacto repercutivo 
+      (valor y las amenazas a las que estan expuestos los activos de los que depende este)
+  
+  Riesgo
+    Determinacion del riesgo potencial
+    riesgo es la medida del daño probable sobre un activo 
+    crece con el impacto y con la probabilidad
+
+    zonas:
+      zona 1: riesgo muy probable y de alto impacto
+      zona 2: 
+        situaciones improbables y de alto impacto,
+        situaciones muy probables de impacto medio o muy bajo
+      zona 3:
+        improbable de bajo impacto 
+      zona 4:
+        riesgos improbables de bajo impacto
+
+  Salvaguardas
+    medidas preventivas o de control
+    permiten protejer el activo cuando la amenaza materializa mitigando el riesgo
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
