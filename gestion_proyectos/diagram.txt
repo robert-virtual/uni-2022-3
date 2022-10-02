@@ -1,0 +1,63 @@
+Table CuentasPorPagar {
+  servicioProducto varchar
+  registradoPor varchar
+  fecha datetime
+  cantidad int
+  unidadDeMedida varchar(10)
+  proveedor varchar(10)
+  monto float
+  
+}
+
+Table Queso {
+  registradoPor varchar
+  fecha datetime
+  librasProducidas float  
+  tipo varchar
+  lecheEntera int
+  lecheDescremada int
+  sal float
+  cuajo int
+  chileJalapeno int
+  chileBolson int
+}
+
+Table Quesillo {
+  registradoPor varchar
+  fecha datetime
+  librasProducidas float  
+  tipo varchar
+  lecheEntera int
+  lecheDescremada int
+  sal float
+  cuajo int
+}
+
+Table Mantequilla {
+  registradoPor varchar
+  fecha datetime
+  librasProducidas float  
+  tipo varchar
+  lecheEntera int
+  sal float
+}
+
+Table Requeson {
+  registradoPor varchar
+  fecha datetime
+  librasProducidas float
+  lecheEntera int
+  lecheDescremada int
+  sal float
+  cuajo int
+}
+
+Table Cuajada {
+  registradoPor varchar
+  fecha datetime
+  librasProducidas float
+  lecheEntera int
+  lecheDescremada int
+  sal float
+  cuajo int
+}

@@ -1,0 +1,34 @@
+Mencione como deben implementarse las políticas de 
+seguridad en los sistemas de información en una 
+Institución educativa y de algunos ejemplos de esas políticas
+
+opinion personal:
+  Primero se debe identificar las amenazas y los activos de la institución 
+  luego crear una politica para prevenir que estas amenezas se materialicen
+  y crear un plan de accion respecto a esta politica en caso de materializacion 
+  en el cual se detalle cuales con las medidas a tomar en tal caso.
+
+  ejemplos:
+    - Acceso de los usuarios a los recursos de red, solicitar usuario y 
+    clave para el acceso a cualquier dispositivo de red de la institución, 
+    limitar los recursos a los que se tiene acceso en un red de usuarios, 
+    analizar que archivos estan siendo compartidos en una red de usuarios.
+
+    - Respaldo de datos, mantener copias de seguridad de la información
+
+    - Politica de contrasenas con elevada dificultad de deduccion.
+
+    - Realizar capacitaciones de sensibilizacion sobre la seguridad de la 
+      información al personal de la institución y a los alumnos.
+
+
+respuesta a Julio Alberto Velasquez:
+  - El Colega Julio Alberto Velasquez tiene una opinion muy acertada
+    en cuanto al proceso para definir una politica, 
+    sin embargo yo haria un pequeno matiz, 
+    como el propone es necesario primero identificar a lo que nos enfrentamos 
+    yo agregaria que es importante no tanto la amenaza como el nivel de riesgo 
+    que esta representa y la probabilidad de materializacion.
+
+
+
