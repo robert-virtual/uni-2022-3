@@ -1,3 +1,7 @@
+CREATE DATABASE lacteos_san_esteban;
+
+USE lacteos_san_esteban;
+
 CREATE TABLE `CuentasPorPagar` (
   `servicioProducto` varchar(50),
   `registradoPor` varchar(50),
