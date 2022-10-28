@@ -9,6 +9,16 @@ Table CuentasPorPagar {
   
 }
 
+Table CuentasPorCobrar {
+  servicioProducto varchar
+  registradoPor varchar
+  fecha datetime
+  cantidad int
+  cliente varchar(10)
+  monto float
+  
+}
+
 Table Queso {
   registradoPor varchar
   fecha datetime
